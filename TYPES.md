@@ -7,3 +7,4 @@
 ## hashmap
 
 * 1. Two sum
+* [217. Contains duplicate](https://leetcode.com/problems/contains-duplicate/)
