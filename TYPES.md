@@ -24,6 +24,10 @@
 
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 
+## Array
+
+* [27. Remove Element](https://leetcode.com/problems/remove-element)
+
 TODO:
 
 Counting Bits (bitwise)
