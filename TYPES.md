@@ -20,6 +20,10 @@
 
 * [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 
+## two pointers
+
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+
 TODO:
 
 Counting Bits (bitwise)
